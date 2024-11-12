@@ -1,8 +1,8 @@
 # Offline first
 
 - [x] Implementar PWA
-- [] Identificar status de conexão com a internet
-- [] Salvar as ações locais
+- [x] Identificar status de conexão com a internet
+- [x] Salvar as ações locais
 
 
 # Referências
